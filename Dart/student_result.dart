@@ -27,7 +27,6 @@ void main() {
 
   
   isPassed = percentage >= 40;
-
   
   print("==========================================");
   print("          STUDENT RESULT REPORT");
